@@ -11,3 +11,4 @@ C:\Users\M.Vorontsova\source\repos\branch\vcpkg\build\Debug
 2. ```dsliportable.exe -p COM3 -h``` - команда для вывода всего списка команд
 3. ```dsliportable.exe -p COM3 -i``` - информация о файловой системе устройства
 4. ```dsliportable.exe -p COM3 -f "C:\test_pakage\D800 packages\D800_All_release_OLD_Finalised.dstpkg"``` - команда **-f** указывает на путь расположения файла прошивки, в моём случае ```D800_All_release_OLD_Finalised.dstpkg```
+5. ```dsliportable.exe -p COM3 -f "C:\test_pakage\D750 packages\D750_All_NoNoteBase_Finalised.dstpkg"```
